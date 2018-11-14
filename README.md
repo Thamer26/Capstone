@@ -12,11 +12,10 @@ This is an app for people to TEST knowledge they've gained from other learning f
 
 # User Requirements
 
- -	As a user I should be able to view all my answers past test scores and how I compare to other people in my class,cohort geography etc.
+ -	As a user I should be able to view all my answers to past test scores and how I compare to other people in my class,cohort,age group etc.
  -	As a user I should be able to view sample/practice tests and curriculums to study for
  -	As a user I should be able to see others test scores and compare where I stand. 
 
 # Non Core Requirements
-
-	Timed and non timed tests as well as written and essay questions to be assessed by employers. 
-	I should be able to login with gmail,facebook and github.
+ -	Timed and non timed tests as well as written and essay questions to be assessed by employers. 
+ -	I should be able to login with gmail,facebook and github.
